@@ -330,39 +330,46 @@ hr {
     font-size: 55px; }
   .tile.tile-2 .tile-inner {
     background: #eee4da;
+    text-indent:-9999px;
     background-image:url("mon.png");
     background-position: center;
     /*box-shadow: 0 0 30px 10px rgba(243, 215, 116, 0), inset 0 0 0 1px rgba(255, 255, 255, 0);*/
     }
   .tile.tile-4 .tile-inner {
     background: #ede0c8;
+    text-indent:-9999px;
     background-image:url("tue.png");
     /*background-position: center;
     box-shadow: 0 0 30px 10px rgba(243, 215, 116, 0), inset 0 0 0 1px rgba(255, 255, 255, 0);
   */}
   .tile.tile-8 .tile-inner {
     color: #f9f6f2;
+    text-indent:-9999px;
     background-image:url("wed.png");
     background-position: center;
-    background: #f2b179; }
+    /*background: #f2b179; */}
   .tile.tile-16 .tile-inner {
     color: #f9f6f2;
+    text-indent:-9999px;
     background-image:url("thu.png");
-    background-position: center;
-    background: #f59563; }
+    background-position: center;/*
+    background: #f59563;*/ }
   .tile.tile-32 .tile-inner {
     color: #f9f6f2;
+    text-indent:-9999px;
     background-image:url("fri.png");
-    background-position: center;
-    background: #f67c5f; }
+    background-position: center;/*
+    background: #f67c5f; */}
   .tile.tile-64 .tile-inner {
     color: #f9f6f2;
+    text-indent:-9999px;
     background-image:url("sat.png");
-    background-position: center;
-    background: #f65e3b; }
+    background-position: center;/*
+    background: #f65e3b;*/ }
   .tile.tile-128 .tile-inner {
-    color: #f9f6f2;
-    background: #edcf72;
+    color: #f9f6f2;/*
+    background: #edcf72;*/
+    text-indent:-9999px;
     background-image:url("sun.png");
     background-position: center;
     /*box-shadow: 0 0 30px 10px rgba(243, 215, 116, 0.2381), inset 0 0 0 1px rgba(255, 255, 255, 0.14286);*/
