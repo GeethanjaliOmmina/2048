@@ -332,13 +332,14 @@ hr {
     background: #eee4da;
     background-image:url("mon.png");
     background-position: center;
-    box-shadow: 0 0 30px 10px rgba(243, 215, 116, 0), inset 0 0 0 1px rgba(255, 255, 255, 0);
+    /*box-shadow: 0 0 30px 10px rgba(243, 215, 116, 0), inset 0 0 0 1px rgba(255, 255, 255, 0);*/
     }
   .tile.tile-4 .tile-inner {
     background: #ede0c8;
     background-image:url("tue.png");
-    background-position: center;
-    box-shadow: 0 0 30px 10px rgba(243, 215, 116, 0), inset 0 0 0 1px rgba(255, 255, 255, 0); }
+    /*background-position: center;
+    box-shadow: 0 0 30px 10px rgba(243, 215, 116, 0), inset 0 0 0 1px rgba(255, 255, 255, 0);
+  */}
   .tile.tile-8 .tile-inner {
     color: #f9f6f2;
     background-image:url("wed.png");
@@ -364,7 +365,7 @@ hr {
     background: #edcf72;
     background-image:url("sun.png");
     background-position: center;
-    box-shadow: 0 0 30px 10px rgba(243, 215, 116, 0.2381), inset 0 0 0 1px rgba(255, 255, 255, 0.14286);
+    /*box-shadow: 0 0 30px 10px rgba(243, 215, 116, 0.2381), inset 0 0 0 1px rgba(255, 255, 255, 0.14286);*/
     font-size: 45px; }
     @media screen and (max-width: 520px) {
       .tile.tile-128 .tile-inner {
